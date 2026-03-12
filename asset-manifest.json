@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/full-stack-web-developmnet-sprmntr-/mood-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/full-stack-web-developmnet-sprmntr-/mood-tracker/static/js/main.97357d15.js",
+    "static/js/453.5a233ef5.chunk.js": "/full-stack-web-developmnet-sprmntr-/mood-tracker/static/js/453.5a233ef5.chunk.js",
+    "index.html": "/full-stack-web-developmnet-sprmntr-/mood-tracker/index.html",
+    "main.e6c13ad2.css.map": "/full-stack-web-developmnet-sprmntr-/mood-tracker/static/css/main.e6c13ad2.css.map",
+    "main.97357d15.js.map": "/full-stack-web-developmnet-sprmntr-/mood-tracker/static/js/main.97357d15.js.map",
+    "453.5a233ef5.chunk.js.map": "/full-stack-web-developmnet-sprmntr-/mood-tracker/static/js/453.5a233ef5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.97357d15.js"
+  ]
+}
