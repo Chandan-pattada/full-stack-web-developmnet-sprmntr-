@@ -1,0 +1,79 @@
+/* Background */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  min-height: 100vh;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+/* Nav links */
+.nav-link {
+  margin: 0 10px;
+  text-decoration: none;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+/* Hover effect */
+.nav-link:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Active */
+.nav-link.active {
+  background: white;
+  color: #333;
+}
+
+/* Center container */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+/* Glass Card */
+.card {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 40px;
+  width: 400px;
+  text-align: center;
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+  color: white;
+  transition: transform 0.3s;
+}
+
+/* Hover animation */
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Text */
+.card h1 {
+  margin-bottom: 10px;
+}
+
+.card p {
+  opacity: 0.9;
+}
